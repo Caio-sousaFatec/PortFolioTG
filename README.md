@@ -27,11 +27,70 @@
 
 <br>
 
+<div align=center><h1>Agile Assesment</h1></div>
+
+<h4> 1º Semestre • Projeto Integrador Fatec-SJC <a href="https://github.com/Pythonators/API_semestre1_pythonators">Repositório Github</a></h4>
+
+<p align="justify">Cliente Interno • Lucas Gonçalves Nadalete</p>
+
+<p align="center"><img src="COLOQUE_AQUI_O_CAMINHO_DA_IMAGEM" width="20%"></p>
+
+<p align="justify">
+Este projeto foi desenvolvido por alunos do 1º semestre do curso de Banco de Dados da FATEC São José dos Campos. A proposta consiste em criar uma aplicação web de avaliação 360° entre membros de equipes Scrum, com base na Escala Likert, permitindo avaliações internas de desempenho entre colegas, líderes e professores.
+</p>
+
+<details>
+
+<summary align="center">VER MAIS DETALHES</summary>
+
+<h2>Objetivo</h2>
+
+#### Ao final do desenvolvimento, a aplicação permite:
+* Realizar avaliações por meio de um painel com perguntas baseadas na Escala Likert.
+* Diferenciar perfis de usuários (aluno, professor, administrador) com níveis distintos de acesso.
+* Realizar login com autenticação e controle de perfis.
+* Armazenar as avaliações localmente utilizando o TinyDB.
+* Gerar dashboards de visualização com os resultados de forma clara e consolidada.
+* Acompanhar o desempenho dos membros da equipe em diferentes sprints.
+
+<br>
+
+<h2>Tecnologias Utilizadas no Projeto</h2>
+
+<p align="justify"><strong>Python:</strong> linguagem principal utilizada no backend, com uso de bibliotecas como Pandas e TinyDB.</p>
+<p align="justify"><strong>Flask:</strong> microframework web utilizado para criar a API da aplicação.</p>
+<p align="justify"><strong>HTML5:</strong> utilizado na construção da interface do usuário.</p>
+<p align="justify"><strong>CSS3:</strong> utilizado para estilização das páginas web.</p>
+<p align="justify"><strong>Figma:</strong> ferramenta utilizada para a prototipação das telas.</p>
+
+<img src="https://img.shields.io/static/v1?label=&message=PYTHON&color=gray&style=for-the-badge&logo=PYTHON">
+<img src="https://img.shields.io/static/v1?label=&message=FLASK&color=gray&style=for-the-badge&logo=FLASK">
+<img src="https://img.shields.io/static/v1?label=&message=HTML&color=gray&style=for-the-badge&logo=HTML5">
+<img src="https://img.shields.io/static/v1?label=&message=CSS&color=gray&style=for-the-badge&logo=CSS3">
+<img src="https://img.shields.io/static/v1?label=&message=TINYDB&color=gray&style=for-the-badge&logo=TinyDB">
+<img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=gray&style=for-the-badge&logo=Figma">
+
+<br>
+<br>
+
+<h2>Minhas Contribuições</h2>
+
+> Atuei como Product Owner (PO) no projeto, minha primeira experiência nessa função, com foco na organização e direcionamento do desenvolvimento.
+
+### 1. **Organização do Backlog e Planejamento**
+   - Criação e priorização do backlog com base nas necessidades levantadas com o cliente interno e orientações do professor P2.
+
+### 2. **Validações e Interface com o Cliente**
+   - Realizei reuniões de validação com o cliente e o professor para assegurar que os requisitos estavam sendo corretamente atendidos.
+
+</details>
+
 <div align=center><h1>DataFlow</h1></div>
 
-<h4> 3º Semestre • <a href="https://github.com/iNineBD/DataFlow-3Sem2024">Repositório Github</a></h4>
+<h4> 3º Semestre • Projeto Integrador Fatec-SJC <a href="https://github.com/Pythonators/API_semestre1_pythonators">Repositório Github</a></h4>
 
-<p align="justify"> Empresa Parceira • <a href="https://www.domrock.net/">DOM ROCK</a></p>
+<p align="justify">Empresa Parceira • <a href="https://www.domrock.net/">DOM ROCK</a></p>
+
 
 <p align="center"><img src="https://github.com/user-attachments/assets/28df1878-1026-45f5-b395-d37a48e1e385" widht="20%"></img>
 
