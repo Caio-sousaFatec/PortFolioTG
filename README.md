@@ -75,7 +75,7 @@ Este projeto foi desenvolvido por alunos do 1º semestre do curso de Banco de Da
 
 <h2>Minhas Contribuições</h2>
 
-> Atuei como Product Owner (PO) no projeto, minha primeira experiência nessa função, com foco na organização e direcionamento do desenvolvimento.
+> Atuei como Product Owner (PO) no projeto, minha primeira experiência nessa função, com foco na organização e direcionamento do desenvolvimento de backlogs e conversa com clientes, acabei por ter atuação reduzida, devido a falta de experiência com estes.
 
 ### 1. **Organização do Backlog e Planejamento**
    - Criação e priorização do backlog com base nas necessidades levantadas com o cliente interno e orientações do professor P2.
@@ -83,7 +83,84 @@ Este projeto foi desenvolvido por alunos do 1º semestre do curso de Banco de Da
 ### 2. **Validações e Interface com o Cliente**
    - Realizei reuniões de validação com o cliente e o professor para assegurar que os requisitos estavam sendo corretamente atendidos.
 
+### 3. **Validações e Interface com o Cliente**
+   - Realizei reuniões de validação com o cliente e o professor para assegurar que os requisitos estavam sendo corretamente atendidos.
+
 </details>
+
+<br>
+
+
+
+
+<div align=center><h1>Sistema de Controle de Horas Extras e Sobreavisos</h1></div>
+
+<h4> 2º Semestre • <a href="https://github.com/codecatss/API-BD2">Repositório Github</a></h4>
+
+<p align="justify">Empresa Parceira <a href="https://www.2rpnet.com.br"></a>2RP Net</p>
+
+
+<p align="justify">A aplicação permite o lançamento, apontamento, aprovação e acompanhamento de horas extras e sobreavisos por diferentes níveis hierárquicos (colaborador, gestor e administrador), integrando funcionalidades como dashboards em tempo real, exportação de relatórios CSV e filtros avançados.</p>
+
+<details>
+
+<summary align="center">VER MAIS DETALHES</summary>
+
+<h2>Objetivo</h2>
+
+#### Após a finalização do projeto pela equipe CodeCats:
+* O colaborador poderá lançar suas horas extras e sobreavisos.
+* O gestor poderá aprovar ou recusar os lançamentos feitos por colaboradores.
+* O administrador terá visão completa das informações e poderá aprová-las definitivamente.
+* O sistema permitirá a gestão de clientes, equipes, projetos e colaboradores.
+* Será possível exportar relatórios em formato CSV.
+* A aplicação contará com dashboards e filtros interativos para acompanhamento em tempo real.
+
+<br>
+
+<h2>Tecnologias Utilizadas no Projeto</h2>
+<p align="justify"><strong>Java:</strong> linguagem utilizada para desenvolvimento da aplicação backend.</p>
+<p align="justify"><strong>JavaFX:</strong> biblioteca gráfica para construção da interface do usuário.</p>
+<p align="justify"><strong>Scene Builder:</strong> ferramenta para criação visual das interfaces JavaFX.</p>
+<p align="justify"><strong>NetBeans:</strong> IDE utilizada para desenvolvimento da aplicação.</p>
+<p align="justify"><strong>Visual Studio Code:</strong> editor utilizado durante o processo de desenvolvimento.</p>
+<p align="justify"><strong>Figma:</strong> ferramenta para prototipação das interfaces.</p>
+<p align="justify"><strong>GitHub:</strong> plataforma para versionamento e hospedagem do repositório.</p>
+
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/javafx-1E4C8C?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/SceneBuilder-0066b8?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white">
+
+<br>
+<br>
+
+<h2>Minhas Contribuições</h2>
+
+> Atuei como desenvolvedor no projeto, contribuindo diretamente para a implementação de funcionalidades voltadas ao controle de horas e validação de fluxos.
+
+### 1. **Desenvolvimento de Funcionalidades**
+   - Implementação de módulos de registro e aprovação de horas extras.
+
+### 2. **Apoio na Integração com Interface**
+   - Participação no alinhamento entre frontend e backend para garantir uma navegação fluida.
+
+### 3. **Desenvolvimento de interface**
+   - Participação efetiva de criação de frontend, utilizando  JavaFX.
+
+### 4. **Desenvolvimento de protótipo**
+-  Participação ativa na criação de protótipos, utilizando a ferramenta figma, estes que foram posteriormente adaptados para frontend
+  
+### 5. **Colaboração em Reuniões de Sprint**
+   - Presença nas reuniões de planejamento, revisão e validação com o PO e SM, contribuindo com sugestões e correções.
+  
+
+
+</details>
+
 
 <div align=center><h1>DataFlow</h1></div>
 
