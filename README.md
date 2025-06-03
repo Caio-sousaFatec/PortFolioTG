@@ -94,6 +94,8 @@ Durante esse projeto, aprendi o processo Scrum e o papel de um PO, além de conh
 **2º Semestre • [Repositório GitHub](https://github.com/codecatss/API-BD2)**  
 **Empresa Parceira:** [2RP Net](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.2rpnet.com.br/&ved=2ahUKEwizy5WggNSNAxWnq5UCHcepPSsQFnoECBkQAQ&usg=AOvVaw0oYyetTZGeDaSG7WRIbuw-)
 
+![2RP](https://github.com/user-attachments/assets/1bce1b1f-89d5-4814-b04c-df0b68a2c51f)
+
 <p align="justify">
 Aplicação para lançamento, apontamento, aprovação e acompanhamento de horas extras e sobreavisos. Inclui dashboards em tempo real, exportação de relatórios CSV e filtros avançados para colaboradores, gestores e administradores.
 </p>
