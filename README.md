@@ -39,6 +39,8 @@
 **1º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/Pythonators/API_semestre1_pythonators)**  
 **Cliente Interno:** Lucas Gonçalves Nadalete
 
+![Agile Assessment](https://github.com/user-attachments/assets/ecc41c25-3945-4bcf-9ad3-5893dedbfcef)
+
 <p align="justify">
 Este projeto foi desenvolvido por alunos do 1º semestre do curso de Banco de Dados da Fatec-SJC. A proposta consiste em criar uma aplicação web de avaliação&nbsp;360° para membros de equipes Scrum, com perguntas baseadas na Escala Likert, permitindo avaliações internas entre colegas, líderes e professores.
 </p>
@@ -154,6 +156,8 @@ Experiência em JavaFX, fluxo de aprovação de horas extras, integração de fr
 **3º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/Pythonators/API_semestre1_pythonators)**  
 **Empresa Parceira:** [DOM ROCK](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.domrock.net/&ved=2ahUKEwifuoi1gNSNAxUvrpUCHXTLPNQQFnoECAoQAQ&usg=AOvVaw17UNge8A_1VmMQvlxEoiHq)
 
+![DataFlow](https://github.com/user-attachments/assets/28df1878-1026-45f5-b395-d37a48e1e385)
+
 <p align="justify">
 O DataFlow é uma aplicação web para otimizar a configuração de fontes de dados em pipelines de processamento em cascata. Permite cadastro de clientes, upload e validação de dados, mapeamento de campos e aplicação de regras de negócios, tudo com dashboard analítico completo.
 </p>
@@ -219,6 +223,8 @@ Conhecimentos aprofundados em Spring Boot (anotações, JPA, MVC, arquitetura de
 
 **4º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/iNineBD/GeoTrack-4Sem2024Main)**  
 **Empresa Parceira:** [ITO1](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyoeLj8dONAxWzr5UCHaiZESUQFnoECBYQAQ&url=https%3A%2F%2Fwww.ito1.com.br%2F&usg=AOvVaw3Vknhg5dVVxaKjJ2AfcDrL&opi=89978449)
+
+![image](https://github.com/user-attachments/assets/c8c8d4dc-03af-4814-9763-bfd62e333771)
 
 <p align="justify">
 O GeoTrack é um sistema para gerenciar e consultar dados de geolocalização em tempo real de dispositivos IoT. Permite monitorar rotas, sessões e pontos de parada, oferecendo interface segura e escalável para operações logísticas.
