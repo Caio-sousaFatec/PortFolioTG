@@ -5,11 +5,11 @@
   Estou cursando Tecnologia em Banco de Dados na Fatec-SJC e atualmente trabalho como Analista de Suporte Técnico N1 na empresa Geopixel.
 </p>
 
-## Contatos
+### Contatos
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiomsousa01)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white)](mailto:cmssousa22@gmail.com)  
-[![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=social&logo=github&logoColor=white)](https://github.com/Caio-sousaFatec)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiomsousa01)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:cmssousa22@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-0D1117.svg?logo=github&logoColor=white)](https://github.com/Caio-sousaFatec)
 
 ## Meus Principais Conhecimentos
 
