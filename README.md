@@ -281,38 +281,11 @@ Experiência em arquitetura fullstack, integração de mapas (OpenLayers/Vue.js)
 
 ---
 
-<p align="justify"><h1>Mais sobre mim</h1></p>
+# Mais sobre mim
 
-<p>
-Sou apaixonado por desafios e busco soluções criativas e eficientes. Mantenho bom humor e dedicação em todas as equipes, promovendo um ambiente harmonioso e organizado.
-</p>
+Sou um profissional apaixonado por desafios, com foco em encontrar soluções criativas e eficientes. Atuo sempre com dedicação e bom humor, contribuindo para a construção de ambientes de trabalho harmoniosos, organizados e produtivos.  
 
-<details>
-<summary><h3>Hard Skills</h3></summary>
+No campo das **habilidades técnicas**, possuo experiência sólida em diversas linguagens e tecnologias. Destaco meu domínio avançado em **Java** (cinco de seis pontos), além de proficiência consistente em **Python**, **Vue.js** e **OracleDB** (quatro de seis pontos cada). Tenho ainda conhecimento intermediário em **Rust** (três de seis pontos) e em ferramentas como **MongoDB** e **Docker** (três de seis pontos cada). Em bancos de dados relacionais, apresento um nível de excelência em **PostgreSQL** e **MySQL**, ambos avaliados no grau máximo (seis de seis pontos).  
 
-| Tecnologia/Metodologia     | Classificação |
-|:--------------------------:|:-------------:|
-| Java                       | ★★★★★☆        |
-| Rust                       | ★★★☆☆☆        |
-| Python                     | ★★★★☆☆        |
-| Vue.js                     | ★★★★☆☆        |
-| OracleDB                   | ★★★★☆☆        |
-| PostgreSQL                 | ★★★★★★        |
-| MySQL                      | ★★★★★★        |
-| MongoDB                    | ★★★☆☆☆        |
-| Docker                     | ★★★☆☆☆        |
+No que se refere às **habilidades interpessoais**, possuo alta capacidade de **proatividade** (seis de seis pontos) e me destaco pela **comunicação** e **colaboração efetiva** (também seis de seis pontos). Tenho boa **autonomia e visão de negócio** (quatro de seis pontos), o que me permite atuar de forma estratégica e independente. Além disso, possuo base sólida em **organização, planejamento e entrega** (três de seis pontos), o que assegura consistência na execução de atividades e cumprimento de prazos.  
 
-
-</details>
-
-<details>
-<summary><h3>Soft Skills</h3></summary>
-
-| Habilidade                         | Classificação |
-|:---------------------------------:|:-------------:|
-| Proatividade                       | ★★★★★★        |
-| Autonomia e Visão de Negócio       | ★★★★☆☆        |
-| Comunicação e Colaboração          | ★★★★★★        |
-| Organização, Planejamento e Entrega| ★★★☆☆☆        |
-
-</details>
