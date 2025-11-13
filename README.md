@@ -275,8 +275,7 @@ Experiência em arquitetura fullstack, integração de mapas (OpenLayers/Vue.js)
 **5º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/QuantumBitBR/API_5SEM)**  
 **Empresa Parceira:** [Youtan](https://youtan.com.br)
 
-![Stratify](<img width="1292" height="593" alt="image" src="https://github.com/user-attachments/assets/81538c6d-6625-4514-b497-ec57e303a5d2" />
-)
+<img width="1310" height="601" alt="image" src="https://github.com/user-attachments/assets/32f064ff-a661-4ac1-9754-49b873b4aef5" />
 
 <p align="justify">
 O Stratify é uma plataforma integrada ao banco de dados do Taiga para consolidar e exibir indicadores estratégicos sobre o andamento dos projetos. Essa solução permitirá que diferentes perfis de usuários tenham acesso a informações específicas, garantindo uma visão clara e organizada.
