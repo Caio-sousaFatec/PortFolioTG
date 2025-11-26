@@ -47,14 +47,14 @@ No que se refere às **habilidades interpessoais**, possuo alta capacidade de **
 | <a href="#"> Sexto Semestre </a> | Aplicação web, específica para verificação de base de dados para chamados e insights gerados por ML |  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 
-## Atividades extracurrículares
+# Atividades extracurrículares
 ---
 Além dos projetos realizados em fatec, também tive o prazer de lidar com certas experiências acadêmicas que me auxiliaram a entender o funcionamento da instituição, auxiliando diretamente alunos e docentes, ou puseram em prática minhas habilidades técnicas.
-##### - Atuação na CIPA
+## Atuação na CIPA
 Por um período de seis meses, participei ativamente da CIPA da FATEC, como aluno eleito, participando de reuniões valiosas sobre possíveis melhorias para facilitação e aprimoramento de convívio dentro das instalações da FATEC, também preparando pequenos eventos para conscientização de procedimentos realizados.
-##### - Representante de classe
+## Representante de classe
 Também fui Representante de classe, durante os períodos de primeiro e segundo semestre, auxiliando o contato de professores e alunos, mobilizando a parte docente para cumprimento de necessidades de alunos, com base em dialogo com classe.
-##### - Interfatecs
+## Interfatecs
 Participei efetivamente de duas edições de campeonatos de lógica de programação.
 
 --- Espaço para footer
