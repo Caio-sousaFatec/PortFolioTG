@@ -1,4 +1,6 @@
--- espaçamento para header
+
+<img width="1000" height="315" alt="1" src="https://github.com/user-attachments/assets/34e13385-ae2e-4a2c-96f1-4492979e0134" />
+
 
 # Introdução
 <div>
@@ -55,6 +57,8 @@ Por um período de seis meses, participei ativamente da CIPA da FATEC, como alun
 ## Representante de classe
 Também fui Representante de classe, durante os períodos de primeiro e segundo semestre, auxiliando o contato de professores e alunos, mobilizando a parte docente para cumprimento de necessidades de alunos, com base em dialogo com classe.
 ## Interfatecs
-Participei efetivamente de duas edições de campeonatos de lógica de programação.
+Participei efetivamente de duas edições de campeonatos de lógica de programação, exercitando não apenas a lógica de programação, também controle de prazos, lidar com trabalhos sob pressão, raciocínio lógico e trabalho em equipe.
+<br>
+<br>
 
---- Espaço para footer
+<a href="https://allmylinks.com/csousa2303"> <img width="1000" height="315" alt="2" src="https://github.com/user-attachments/assets/0c265d07-7bd1-4af1-a687-db5e7ce92883" /> </a>
