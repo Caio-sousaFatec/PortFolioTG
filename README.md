@@ -39,12 +39,12 @@ No que se refere às **habilidades interpessoais**, possuo alta capacidade de **
 
 | **Semestre** | **Descrição da aplicação** | **Diretório Ramificado**|
 |:---: | :---: | :---:|
-| <a href="#">Primeiro Semestre </a> | Aplicação interna, executável para a realização de avaliações em equipe |  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)|
-| <a href="#">Segundo Semestre </a>  | Aplicação executável para a realização de registros e contabilidade de horas extras | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| <a href="#"> Terceiro Semestre </a> | Aplicação web, específica para a realização de pipelines pré determinadas | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| <a href="#"> Quarto Semestre </a> | Aplicação web, específica para geolocalização e rastreamento de base de dados interna |  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| <a href="#"> Quinto Semestre </a> | Aplicação web, específica para visualização de dados em dashboards de integração à aplicação Taiga.io | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| <a href="#"> Sexto Semestre </a> | Aplicação web, específica para verificação de base de dados para chamados e insights gerados por ML |  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| <a href="https://github.com/Caio-sousaFatec/PortFolioTG/blob/main/AgileAssesment">Primeiro Semestre </a> | Aplicação interna, executável para a realização de avaliações em equipe |  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)|
+| <a href="https://github.com/Caio-sousaFatec/PortFolioTG/blob/main/SCHES">Segundo Semestre </a>  | Aplicação executável para a realização de registros e contabilidade de horas extras | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| <a href="https://github.com/Caio-sousaFatec/PortFolioTG/blob/main/DataFlow"> Terceiro Semestre </a> | Aplicação web, específica para a realização de pipelines pré determinadas | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| <a href="https://github.com/Caio-sousaFatec/PortFolioTG/blob/main/GeoTrack"> Quarto Semestre </a> | Aplicação web, específica para geolocalização e rastreamento de base de dados interna |  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| <a href="https://github.com/Caio-sousaFatec/PortFolioTG/blob/main/Stratify"> Quinto Semestre </a> | Aplicação web, específica para visualização de dados em dashboards de integração à aplicação Taiga.io | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| <a href="https://github.com/Caio-sousaFatec/PortFolioTG/blob/main/VisionData"> Sexto Semestre </a> | Aplicação web, específica para verificação de base de dados para chamados e insights gerados por ML |  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 
 # Atividades extracurrículares
