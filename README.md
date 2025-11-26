@@ -1,17 +1,28 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Portif%C3%B3lio%20API&fontSize=50&fontColor=1A4870">
 
+
+# Introdução
+<div>
+  
 <p align="justify">
   Olá, meu nome é Caio Matheus de Sousa, sou natural de São José dos Campos - São Paulo, Brasil.<br>
-  Estou cursando Tecnologia em Banco de Dados na Fatec-SJC e atualmente trabalho como Analista de Suporte Técnico N1 na empresa Geopixel.
+  Sou desenvolvedor de software, com foco em backend, ênfase em aplicações Web. Estou cursando a formação de grau superior banco de dados. <br>
+  Além disso, atualmente estou trabalhando em uma empresa de software nacional voltado para o ramo de geolocalização e mapeamento, onde desempenho o papel de analista de suporte técnico e manutenção N1, executando principalmente operações GIS, manutenção e gerenciamento de Bancos de dados e atuações em máquinas virtuais, além do atendimento direto e especializado a mais de 100 prefeituras.
 </p>
 
-### Contatos
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiomsousa01)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:cmssousa22@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-0D1117.svg?logo=github&logoColor=white)](https://github.com/Caio-sousaFatec)
+  <details>
+    <summary><h3>Mais sobre mim </h3></summary>
+Sou um profissional apaixonado por desafios, com foco em encontrar soluções criativas e eficientes. Atuo sempre com dedicação e bom humor, contribuindo para a construção de ambientes de trabalho harmoniosos, organizados e produtivos.  
 
-## Meus Principais Conhecimentos
+No campo das **habilidades técnicas**, possuo experiência sólida em diversas linguagens e tecnologias. Destaco meu domínio avançado em **Java**, além de proficiência consistente em **Python**, **Vue.js** e **OracleDB**. Tenho ainda conhecimento intermediário em **Rust** e em ferramentas como **MongoDB** e **Docker**.<br>
+Em bancos de dados relacionais, apresento um nível de excelência em **PostgreSQL** e **MySQL**, se caracterizando como meus pontos fortes.  
+
+No que se refere às **habilidades interpessoais**, possuo alta capacidade de **proatividade**  e me destaco pela **comunicação** e **colaboração efetiva**. Tenho boa **autonomia e visão de negócio**, o que me permite atuar de forma estratégica e independente. Além disso, possuo base sólida em **organização, planejamento e entrega** , o que assegura consistência na execução de atividades e cumprimento de prazos.  
+
+</details>
+
+
+## Resumo de Principais Tecnologias
 
 <div align="left">
 
@@ -337,15 +348,12 @@ Conhecimentos aprofundados em Spring Boot (JWT e afins), conhecimento aprofundad
 
 </details>
 
+### Contatos
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiomsousa01) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:cmssousa22@gmail.com) [![GitHub](https://img.shields.io/badge/github-0D1117.svg?logo=github&logoColor=white)](https://github.com/Caio-sousaFatec)
+
 ---
 
 
 
-# Mais sobre mim
-
-Sou um profissional apaixonado por desafios, com foco em encontrar soluções criativas e eficientes. Atuo sempre com dedicação e bom humor, contribuindo para a construção de ambientes de trabalho harmoniosos, organizados e produtivos.  
-
-No campo das **habilidades técnicas**, possuo experiência sólida em diversas linguagens e tecnologias. Destaco meu domínio avançado em **Java** (cinco de seis pontos), além de proficiência consistente em **Python**, **Vue.js** e **OracleDB** (quatro de seis pontos cada). Tenho ainda conhecimento intermediário em **Rust** (três de seis pontos) e em ferramentas como **MongoDB** e **Docker** (três de seis pontos cada). Em bancos de dados relacionais, apresento um nível de excelência em **PostgreSQL** e **MySQL**, ambos avaliados no grau máximo (seis de seis pontos).  
-
-No que se refere às **habilidades interpessoais**, possuo alta capacidade de **proatividade** (seis de seis pontos) e me destaco pela **comunicação** e **colaboração efetiva** (também seis de seis pontos). Tenho boa **autonomia e visão de negócio** (quatro de seis pontos), o que me permite atuar de forma estratégica e independente. Além disso, possuo base sólida em **organização, planejamento e entrega** (três de seis pontos), o que assegura consistência na execução de atividades e cumprimento de prazos.  
 
