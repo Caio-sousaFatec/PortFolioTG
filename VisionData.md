@@ -1,7 +1,10 @@
 # **Vision Data**
+
 ---
 ![alt text](Assets/VisionLogo.png)
+
 ### **6º Semestre • Projeto Integrador Fatec-SJC**  
+
 #### **Cliente:** Pro4tech
 
 >A empresa Pro4tech se trata de uma code house dedicada a transformação digital de empresas de terceiros, desenvolvendo soluções inteligentes para controles de recursos humanos, BI, Aplicações WEB, IA, IOT e DEVOPS, com base nas necessidades de seus clientes, e entre seus cases de sucesso estão empresas como Toyota e PVP (Pro Variable Pay)
@@ -11,9 +14,8 @@
 O cliente em questão possuia a  necessidade de criação de uma solução que realizasse o levantamento de dados desorganizados, padronizando uma visualização mais rápida e assertiva, por meio de um BI, centralizado e organizado.
 Além disso, também era do interesse do cliente a possibilidade de visualização e exportação de insights preditivos que pudessem auxiliar na gestão e desta forma reduzindo retrabalhos e melhorando a estratégia de tomadas de decisão
 
-
-
 #### Solução apresentada
+
 ---
 
 Foi entregue uma aplicação Web que cumpria a todos os requisitos alinhados ao cliente, entregando uma ferramenta em adesão com LGPD, que possuia uma interface adaptável, que entregue os dados relevantes de uma forma centralizada e concisa, que além da beleza, consegue entregar insights valiosos para uma boa estratégia de tomadas de decisão.
@@ -73,13 +75,25 @@ Além destes temos os seguintes requisitos não funcionais:
    - Realização de reuniões de alinhamento junto ao professor M2
 4. **Criação de gráficos (FRONTEND)**
    - Criação de contadores de contagem de tickets
+   <summary>Evidências</sumarry>
+   <details>
+
    ![alt text](Assets/evidencia_01.png)
    ![alt text](Assets/evidencia_code_01.png)
    >_demonstrativo de funcionamento de tela_
-   - Criação de gráfico tabular -- descontinuado, devido a implementação de elasticsearch
+   
+   </details>
+   - Criação de gráfico tabular
+    <summary>Evidências</sumarry>
+    <details>
+
       ![alt text](Assets/evidencia_02.png)
+   >_demonstrativo de tela_
+
+
+      </details>
 5. **Criação de SonarCloud**
-    - Criação e acompanhamento de SonarCloud, posteriormente sendo substituído por versão hospedada interna de SonarQube.
+    - Criação e acompanhamento de SonarCloud.
 
 #### Conhecimentos Obtidos
 
