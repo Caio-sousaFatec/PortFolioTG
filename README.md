@@ -62,6 +62,7 @@ Participei efetivamente de duas edições de campeonatos de lógica de programa�
 <br>
 
 ##Contatos
+
 <a href="https://allmylinks.com/csousa2303">Todos meus links estão aqui!</a>
 
-<img width="1000" height="315" alt="2" src="assets/footer.png" /> 
+![footer](assets/footer.png)
