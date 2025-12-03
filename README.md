@@ -61,4 +61,7 @@ Participei efetivamente de duas edições de campeonatos de lógica de programa�
 <br>
 <br>
 
-<a href="https://allmylinks.com/csousa2303"> <img width="1000" height="315" alt="2" src="https://github.com/user-attachments/assets/0c265d07-7bd1-4af1-a687-db5e7ce92883" /> </a>
+##Contatos
+<a href="https://allmylinks.com/csousa2303">Todos meus links estão aqui!</a>
+
+<img width="1000" height="315" alt="2" src="assets/footer.png" /> 

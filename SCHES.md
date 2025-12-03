@@ -1,63 +1,109 @@
+# **Vision Data**
+---
 
+![alt text](Assets/VisionLogo.png)
 
-<div align="center"><h1>Sistema de Controle de Horas Extras e Sobreavisos</h1></div>
+### **2º Semestre • Projeto Integrador Fatec-SJC**
+#### **Empresa parceira:** 2RP Net
+>A 2RP Net é uma empresa especializada em soluções corporativas de TI, incluindo serviços de infraestrutura, nuvem, outsourcing e governança.  
+_(Caso seja necessária outra descrição, informar.)_
 
-**2º Semestre • [Repositório GitHub](https://github.com/codecatss/API-BD2)**  
-**Empresa Parceira:** [2RP Net](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.2rpnet.com.br/&ved=2ahUKEwizy5WggNSNAxWnq5UCHcepPSsQFnoECBkQAQ&usg=AOvVaw0oYyetTZGeDaSG7WRIbuw-)
+---
 
-![2RP](https://github.com/user-attachments/assets/1bce1b1f-89d5-4814-b04c-df0b68a2c51f)
+## Problema Proposto
 
-<p align="justify">
-Aplicação para lançamento, apontamento, aprovação e acompanhamento de horas extras e sobreavisos. Inclui dashboards em tempo real, exportação de relatórios CSV e filtros avançados para colaboradores, gestores e administradores.
-</p>
+O cliente possuía a necessidade de uma solução centralizada para controle de horas extras e sobreavisos, permitindo organização completa do fluxo de:  
+- Lançamento  
+- Aprovação  
+- Acompanhamento  
+- Exportação de dados  
+
+Também havia a demanda por dashboards, relatórios em CSV e filtros avançados para auxiliar decisores e evitar retrabalhos.
+
+---
+
+## Solução apresentada
+---
+
+Foi entregue uma aplicação que contemplava todos os requisitos funcionais, oferecendo um fluxo completo e acessível para colaboradores, gestores e administradores.  
+A solução proporciona lançamentos, aprovações, gestão de equipes e visão consolidada por meio de dashboards e exportações.
+
+### **Requisitos funcionais concluídos**
+- **Permitir que colaboradores lancem horas extras e sobreavisos.**
+- **Permitir aprovação ou recusa por gestores.**
+- **Permitir aprovação definitiva por administradores.**
+- **Gerenciar clientes, equipes, projetos e colaboradores.**
+- **Exportar relatórios em CSV.**
+- **Exibir dashboards e filtros interativos em tempo real.**
+
+### **Requisitos não funcionais**
+- **Acesso seguro e restrito a usuários autorizados.**
+- **Conformidade com LGPD.**
+- **Interface intuitiva e usável.**
+- **Alta disponibilidade e estabilidade.**
+- **Geração de logs para auditoria.**
+
+---
+
+## Tecnologias Utilizadas
+
+| Tecnologia | Motivo de uso |
+| --- | --- |
+| ![Java](https://img.shields.io/badge/java-purple?logo=openjdk&logoColor=white) | Linguagem principal do backend. |
+| ![JavaFX](https://img.shields.io/badge/javafx-purple?logo=java&logoColor=white) | Construção da interface gráfica. |
+| ![SceneBuilder](https://img.shields.io/badge/SceneBuilder-purple?logo=java&logoColor=white) | Criação visual de telas. |
+| ![NetBeans](https://img.shields.io/badge/netbeans-purple?logo=apache&logoColor=white) | IDE principal do desenvolvimento. |
+| ![VSCode](https://img.shields.io/badge/vscode-purple?logo=visual-studio-code&logoColor=white) | Editor secundário. |
+| ![Figma](https://img.shields.io/badge/figma-purple?logo=figma&logoColor=white) | Criação e prototipação de interfaces. |
+| ![GitHub](https://img.shields.io/badge/github-purple?logo=github&logoColor=white) | Versionamento e repositório. |
 
 <details>
-<summary align="center">VER MAIS DETALHES</summary>
+<summary align="left">VER MAIS DETALHES</summary>
 
-#### Objetivo
+_(Imagem ausente de informações)_
 
-- Permitir que colaboradores lancem horas extras e sobreavisos.  
-- Gestores aprovam ou recusam lançamentos.  
-- Administradores têm visão completa e podem aprovar definitivamente.  
-- Gerenciar clientes, equipes, projetos e colaboradores.  
-- Exportar relatórios em CSV.  
-- Dashboards e filtros interativos para acompanhamento em tempo real.
+</details>
 
-#### Tecnologias Utilizadas
+---
 
-- **Java**: Linguagem do backend.  
-- **JavaFX**: Biblioteca gráfica para interface.  
-- **Scene Builder**: Ferramenta visual para criar telas JavaFX.  
-- **NetBeans**: IDE principal para desenvolvimento.  
-- **Visual Studio Code**: Editor utilizado secundariamente.  
-- **Figma**: Protótipos das interfaces.  
-- **GitHub**: Versionamento e hospedagem do repositório.
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaFX](https://img.shields.io/badge/javafx-1E4C8C?style=for-the-badge&logo=java&logoColor=white)  
-![Scene Builder](https://img.shields.io/badge/SceneBuilder-0066b8?style=for-the-badge&logo=java&logoColor=white)  
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
-
-#### Minhas Contribuições
+## Minhas Contribuições
 
 > **Função:** Desenvolvedor
 
-1. **Desenvolvimento de Funcionalidades**  
-   - Implementação de módulos de registro e aprovação de horas extras.  
-2. **Integração Frontend-Backend**  
-   - Alinhamento entre JavaFX e lógica de backend para experiência fluida.  
-3. **Desenvolvimento de Interface**  
-   - Construção de telas em JavaFX com base em protótipos do Figma.  
-4. **Protótipos em Figma**  
-   - Criação e adaptação de protótipos para frontend.  
-5. **Reuniões de Sprint**  
-   - Participação em planejamento, revisão e validação, contribuindo com sugestões.
+1. **Desenvolvimento de Funcionalidades**
+   - Implementação dos módulos de lançamento e aprovação de horas extras.
+   - Estruturação do fluxo de aprovação para gestores e administradores.
 
-#### Conhecimentos Obtidos
+2. **Integração Frontend-Backend**
+   - Conexão entre componentes JavaFX e lógica backend.
+   - Garantia de comunicação consistente entre interface e regras de negócio.
 
-Experiência em JavaFX, fluxo de aprovação de horas extras, integração de frontend com backend e uso de ferramentas de prototipação e versionamento.
+3. **Desenvolvimento de Interface**
+   - Construção de telas JavaFX baseadas em protótipos Figma.
+   - Adaptação da navegação para melhorar a usabilidade.
+
+4. **Protótipos em Figma**
+   - Criação e ajuste de protótipos das telas principais.
+
+5. **Reuniões de Sprint**
+   - Participação em planejamento, review e validações.
+   - Contribuição com sugestões técnicas e de fluxo.
+
+### Evidências
+<details>
+<summary>Evidências</summary>
+
+_Ausente de informações_
 
 </details>
+
+---
+
+## Conhecimentos Obtidos
+
+- Desenvolvimento orientado a objetos com Java.  
+- Criação de interfaces com JavaFX.  
+- Integração entre frontend e backend.  
+- Fluxo completo de aprovação e gestão de registros.  
+- Uso de ferramentas como Figma, NetBeans, GitHub e SceneBuilder.
+
