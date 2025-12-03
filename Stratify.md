@@ -52,7 +52,8 @@ Além destes, temos os seguintes requisitos não funcionais:
 ![github](https://img.shields.io/badge/github-purple?logo=github&logoColor=white) | Utilizado primariamente como versionamento de códigos, ramificações de branchs e afins. |
 | ![taiga.io](https://img.shields.io/badge/taiga.io-purple?logo=taiga.io)| Utilizado para obtenção dos dados por meio de API, por meio de selfhost.
 | ![SonarCloud](https://img.shields.io/badge/SonarCloud-purple?logo=sonar&logoColor=white)| Utilizado para criação de levantamento de dados QA, integrado ao jira para extração de dados, neste caso, para demonstração de qualidade de código.
-| ![ZOHO](https://img.shields.io/badge/Zoho_Analytics-purple?logo=zoho&logoColor=white)| Utilizado para criação de levantamento de dados QA, integrado ao jira para extração de dados, neste caso, com foco em entrega de MVP e produtividade da equipe.
+| ![ZOHO](https://img.shields.io/badge/Zoho_Analytics-purple?logo=zoho&logoColor=white)| Utilizado para criação de levantamento de dados QA, integrado ao jira para extração de dados, neste caso, com foco em entrega de MVP e produtividade da equipe. |
+| ![Docker](https://img.shields.io/badge/Docker-purple?logo=docker&logoColor=white) | Containerização para padronização de ambiente e facilidade de deploy.
 
 
 <details>

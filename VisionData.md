@@ -49,6 +49,7 @@ Além destes temos os seguintes requisitos não funcionais:
 | ![Kaggle](https://img.shields.io/badge/Kaggle-purple?logo=kaggle&logoColor=white) | Utilizado como base para os dados para treinamento treinamento de ML e visualização em dashboard.|
 |![jira](https://img.shields.io/badge/jira-purple?logo=jira&logoColor=white)| Utilizado primariamente para criação de tasks, controle de produtividade e alinhamento aos requisitos. |
 ![github](https://img.shields.io/badge/github-purple?logo=github&logoColor=white) | Utilizado primariamente como versionamento de códigos, ramificações de branchs e afins. |
+| ![Docker](https://img.shields.io/badge/Docker-purple?logo=docker&logoColor=white) | Containerização para padronização de ambiente e facilidade de deploy.
 
 <details>
 <summary align="left">VER MAIS DETALHES</summary>
