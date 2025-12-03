@@ -5,7 +5,7 @@
 
 ### **6º Semestre • Projeto Integrador Fatec-SJC**  
 
-#### **Cliente:** Pro4tech
+#### **Empresa parceira:** Pro4tech
 
 >A empresa Pro4tech se trata de uma code house dedicada a transformação digital de empresas de terceiros, desenvolvendo soluções inteligentes para controles de recursos humanos, BI, Aplicações WEB, IA, IOT e DEVOPS, com base nas necessidades de seus clientes, e entre seus cases de sucesso estão empresas como Toyota e PVP (Pro Variable Pay)
 
@@ -78,8 +78,8 @@ Além destes temos os seguintes requisitos não funcionais:
    <summary>Evidências</sumarry>
    <details>
 
-   ![alt text](Assets/evidencia_01.png)
-   ![alt text](Assets/evidencia_code_01.png)
+   ![alt text](assets/evidencia_01.png)
+   ![alt text](assets/evidencia_code_01.png)
    >_demonstrativo de funcionamento de tela_
    
    </details>
@@ -87,7 +87,7 @@ Além destes temos os seguintes requisitos não funcionais:
     <summary>Evidências</sumarry>
     <details>
 
-      ![alt text](Assets/evidencia_02.png)
+      ![alt text](assets/evidencia_02.png)
    >_demonstrativo de tela_
 
 
