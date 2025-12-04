@@ -56,8 +56,6 @@ Além destes temos os seguintes requisitos não funcionais:
 
 ![alt text](assets/workflow6S.png)
 
-</details>
-
 #### Minhas Contribuições
 
 > **Função:** Scrum Master (SM) – primeira experiência na função. Foco em organização da equipe, tasks e documentação.
@@ -99,3 +97,7 @@ Além destes temos os seguintes requisitos não funcionais:
 #### Conhecimentos Obtidos
 
 Durante esse projeto, meu papel foi inteiramente voltado a gestão, obtendo maior conhecimento sobre os deveres e responsabilidades para com a parte de gestão do time, tendo um papel técnico voltado menos a programação e mais a qualidade de processos estabelecidos, aprazamentos e resolução de gargalos.
+
+
+</details>
+
