@@ -1,7 +1,7 @@
    # **Sistema de Controle de Horas Extras e Sobreavisos**
    ---
 
-   ![alt text](assets/VisionLogo.png)
+   ![alt text](assets/schesLogin.png)
 
    ### **2º Semestre • Projeto Integrador Fatec-SJC**
    #### **Empresa parceira:** 2RP Net
@@ -68,11 +68,11 @@
       - Implementação dos módulos de lançamento e aprovação de horas extras.
       - Estruturação do fluxo de aprovação para gestores e administradores.
 
-   <details><summary>Evidências</summary>
-     ![evidencia de código](assets/evidencia_code_04.png)
-
-     ![evidencia de código](assets/evidencia_code_05.png)
-   
+   <details>
+      <summary>Evidências</summary>
+      
+![evidencia de código](assets/evidencia_code_04.png)
+![evidencia de código](assets/evidencia_code_05.png)
    </details>
 
    2. **Integração Frontend-Backend**
