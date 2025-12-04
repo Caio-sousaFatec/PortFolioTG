@@ -1,7 +1,7 @@
    # **Sistema de Controle de Horas Extras e Sobreavisos**
    ---
 
-   ![alt text](Assets/VisionLogo.png)
+   ![alt text](assets/VisionLogo.png)
 
    ### **2º Semestre • Projeto Integrador Fatec-SJC**
    #### **Empresa parceira:** 2RP Net
