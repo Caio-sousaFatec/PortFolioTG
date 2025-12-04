@@ -1,7 +1,7 @@
 # **Vision Data**
 
 ---
-![alt text](Assets/VisionLogo.png)
+![alt text](assets/VisionLogo.png)
 
 ### **6º Semestre • Projeto Integrador Fatec-SJC**  
 
