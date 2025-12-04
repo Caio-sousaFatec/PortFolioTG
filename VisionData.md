@@ -54,7 +54,7 @@ Além destes temos os seguintes requisitos não funcionais:
 <details>
 <summary align="left">VER MAIS DETALHES</summary>
 
-![alt text](Assets/workflow6S.png)
+![alt text](assets/workflow6S.png)
 
 </details>
 
