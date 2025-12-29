@@ -65,4 +65,7 @@ Participei efetivamente de duas edições de campeonatos de lógica de programa�
 
 <a href="https://allmylinks.com/csousa2303">Todos meus links estão aqui!</a>
 
-![footer](assets/footer.png)
+<img width="1000" height="315" alt="Caio M  Sousa" src="https://github.com/user-attachments/assets/9f582738-5851-4b43-b567-0be913781541" />
+
+
+
